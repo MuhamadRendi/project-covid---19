@@ -1,0 +1,13 @@
+C:\Users\Wannacry\AppData\Local\Temporary Projects\Project Covid - 19\bin\Debug\Project Covid - 19.exe.config
+C:\Users\Wannacry\Documents\Visual Studio 2013\Projects\Project Covid - 19\Project Covid - 19\bin\Debug\Project Covid - 19.exe.config
+C:\Users\Wannacry\Documents\Visual Studio 2013\Projects\Project Covid - 19\Project Covid - 19\bin\Debug\Project Covid - 19.exe
+C:\Users\Wannacry\Documents\Visual Studio 2013\Projects\Project Covid - 19\Project Covid - 19\bin\Debug\Project Covid - 19.pdb
+C:\Users\Wannacry\Documents\Visual Studio 2013\Projects\Project Covid - 19\Project Covid - 19\bin\Debug\Project Covid - 19.xml
+C:\Users\Wannacry\Documents\Visual Studio 2013\Projects\Project Covid - 19\Project Covid - 19\obj\Debug\Project_Covid___19.Form1.resources
+C:\Users\Wannacry\Documents\Visual Studio 2013\Projects\Project Covid - 19\Project Covid - 19\obj\Debug\Project_Covid___19.Form2.resources
+C:\Users\Wannacry\Documents\Visual Studio 2013\Projects\Project Covid - 19\Project Covid - 19\obj\Debug\Project_Covid___19.Form3.resources
+C:\Users\Wannacry\Documents\Visual Studio 2013\Projects\Project Covid - 19\Project Covid - 19\obj\Debug\Project_Covid___19.Resources.resources
+C:\Users\Wannacry\Documents\Visual Studio 2013\Projects\Project Covid - 19\Project Covid - 19\obj\Debug\Project Covid - 19.vbproj.GenerateResource.Cache
+C:\Users\Wannacry\Documents\Visual Studio 2013\Projects\Project Covid - 19\Project Covid - 19\obj\Debug\Project Covid - 19.exe
+C:\Users\Wannacry\Documents\Visual Studio 2013\Projects\Project Covid - 19\Project Covid - 19\obj\Debug\Project Covid - 19.xml
+C:\Users\Wannacry\Documents\Visual Studio 2013\Projects\Project Covid - 19\Project Covid - 19\obj\Debug\Project Covid - 19.pdb
